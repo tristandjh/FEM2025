@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FEM2025", "FEM2025.vcxproj", "{4D3F824A-8987-40ED-8CC5-0272F1449E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3F824A-8987-40ED-8CC5-0272F1449E91}.Debug|x64.ActiveCfg = Debug|x64
+		{4D3F824A-8987-40ED-8CC5-0272F1449E91}.Debug|x64.Build.0 = Debug|x64
+		{4D3F824A-8987-40ED-8CC5-0272F1449E91}.Release|x64.ActiveCfg = Release|x64
+		{4D3F824A-8987-40ED-8CC5-0272F1449E91}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3D6F86-97B8-4E78-BFF0-1B9DE2D3D184}
+	EndGlobalSection
+EndGlobal
